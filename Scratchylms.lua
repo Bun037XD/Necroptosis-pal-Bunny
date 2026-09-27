@@ -61,19 +61,19 @@
 			if not canUseModernLMS() then
 				amysolo.SoundId = originalAmySoloID
 				amysolo.Volume = 1
-				amysolo.Looped = true
+				amysolo.Looped = false
 				GFTheme = false
 				return
 			end
 			amysolo.SoundId = AmyLMS
 			amysolo.Volume = 1.5
-			amysolo.Looped = true
+			amysolo.Looped = false
 			return
 		end
 
 		amysolo.SoundId = originalAmySoloID
 		amysolo.Volume = 1
-		amysolo.Looped = true
+		amysolo.Looped = false
 	end
 
 				if GFTheme and not canUseModernLMS() then
