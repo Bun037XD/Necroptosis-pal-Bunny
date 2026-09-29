@@ -23,8 +23,8 @@
 	end
 
 	local AmyLMS = loadCustomAsset(
-		"https://raw.githubusercontent.com/Bun037XD/Necroptosis-pal-Bunny/refs/heads/main/WhenThe.ogg",
-		"WhenThe.ogg"
+		"https://raw.githubusercontent.com/Bun037XD/Necroptosis-pal-Bunny/refs/heads/main/KeepBelieving.ogg",
+		"KeepBelieving.ogg"
 	)
 
     local function canUseModernLMS()
